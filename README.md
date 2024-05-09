@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&text=You can do!&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&text=You_can_do!&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#A6A6A6&lines=Hello. I'm Ha-eun.&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#A6A6A6&lines=Hello.I'm_Haeun.&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 
