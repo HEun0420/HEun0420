@@ -4,7 +4,7 @@
 
 <h3 align="center">🔔 Tech Stack🔔 </h3>
 <p align="center">
-![github](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![github]([https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
 
 <h3 align="center">☁ Follow Me☁ </h3>
 <p align="center">
