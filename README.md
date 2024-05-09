@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&text=welcome&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&text=You can do!&animation=twinkling)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#A6A6A6&lines=Hello. I'm Ha-eun.&font=Redressed&size=40)](https://git.io/typing-svg)
+
 
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
